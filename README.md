@@ -1,16 +1,29 @@
-## Hi there 👋
+## About Me  ✨🧠🏳️‍🌈🦄
+I'm a curious, creative, and empathetic human with a broad range of interests and experiences. I have worked as a Ruby on Rails consultant for dozens of startups, including LinkedIn, Pioneer Electronics, and Monster.com. I thrive in collaborative environments where integrity, transparency and honesty are strong values. I am also a fan of pair programming and unit tests. You can [view my resume/CV here](https://www.dropbox.com/scl/fi/m8czq4uwaij4aooh4jn1f/DAVID-LOWENFELS-CV.pdf?rlkey=0a5qeyx99znogz15d7qnnyw6u&dl=0).
 
-<!--
-**dfl/dfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have professional expertise in Web Apps, Hardware/Software Engineering, [Digital Signal Processing](https://soundcloud.com/lowenlabs/theta-bowls), Music, and [Somatic Healing Arts](http://fullspectrumbodywork.com). Some of my personal interests include Breathwork, Qigong, [Applied Neurobiology](http://pranawave.net), [Biochemistry](https://hypochlorous.info), and [Astrology](http://harmonic-explorer.onrender.com). I'm also late-diagnosed AuDHD, which explains my broad special interests (polymathy), hyperfocus ability, and out-of-the-box creative problem solving! 
 
-Here are some ideas to get you started:
+⚡ Fun fact: I was born in Alaska, and lived most of my life in the San Francisco Bay Area (a weird and wonderful melting pot of Tech, Queerness, Relational and Embodiment Practices, and Spirituality). I recently immigrated with my husband to the UK to escape the CA wildfires and have a new adventure (ask me about [Irn Bru](https://www.youtube.com/watch?v=vcQgrYS61Rw), Haribo, crumpets, and wild foraging 😉🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+
+- [Internaut Design](https://web.archive.org/web/20140604170316/http://internautdesign.com/ruby_on_rails_consulting) - co-founded a Ruby on Rails consultancy that build MVPs for startups in Silicon Valley. We mentored junior developers and frequently hosted the SF Ruby Meetup. Our in-house project managment tool was so successfull that we spun it out into a SaaS product. 💎
+- [ScrumNinja](https://web.archive.org/web/20130605162410/http://www.scrumninja.com/scrum-software) - a project management tool build for Scrum. Inspired by Pivotal Tracker, in addition to high-level user stories and sprint planning, it incorporated a drag-and-drop cardwall for developer task management and time tracking. 🥷
+- [Pranawave](http://pranawave.net) - This was a startup that brought together my interests in health, signal processing, bioacoustics, breathing, and Heart Rate Variability. I built versions in Java, Ruby, and Swift. I made it to the finalist pitch round in Y-Combinator, and developed an iPhone app that measured the pulse via fingertip on camera algorithm. [2017 YouTube Talk at Consciousness Hacking](https://www.youtube.com/watch?v=lvb7IdhT48c), [2024 Heart Rate Variability Podcast](https://www.youtube.com/watch?v=ZV5i2Fo5DwY). 🫁⚕🫀
+- [MindSpa](https://lowenlabs.org/projects/audiovisual/) - I designed and prototyped this brainwave entrainment device during the Pandemic, for some friends who wanted to manufacture and distribute it in China. I used an Arduino platform to build a custom audiovisual synthesis engine, with a complex event sequencer to play back user programs stored on EEPROM. 🧠🚥
+- [Harmonic Explorer](http://harmonic-explorer.onrender.com) - This experimental multi-tool has received interest from professional astrologers and Human Design analysts. The Heliograph, HD Bodygraph, and HD Transit Calendar are particularly unique, as is the support for various sidereal offsets beyond the typical Tropical alignment. It's a closed-source Rails 8 app, built on top of my [swe4r gem](https://github.com/dfl/swe4r) which provides Ruby bindings for the Swiss Ephemeris library written in C.
+- [TimeWARP 2600](https://www.airmusictech.com/virtual-instruments/timewarp-2600/) - I was contracted to develop the oscillator and filter algorithms for this synthsizer, which was used professionaly by Depeche Mode.
+- [Theta Bowls](https://soundcloud.com/lowenlabs/theta-bowls) - A physical modelling synthesizer for Puredata that recreates the sound of Tibetan bowls, and can be controlled to match brainwave entrainment rhythms.
+- [The Vibrokit](https://fullspectrumbodywork.com/vibrokit) - A hardware retrofit to add vibrotactile bass to massage tables. 🔊
+
+## Technical Biography
+
+I've been programming computers since I was 5 years old, when I explored recursive procedures and computer graphics with Logo on my Apple 2e.
+Thanks to my grade school librarian, I learned to type and program BASIC, later expanding to C, C++, and x86 Assembler.
+One year, between art classes and cross-country running, I spent time after-school at my Dad's office, where I learned AutoCAD and wrote a [TSR](https://en.wikipedia.org/wiki/Terminate-and-stay-resident_program) screensaver for MS-DOS.
+
+Between sports practice and language and music lessons, I fell in love with books on 3D graphics and ray tracing. I got an account on a local university [VAX](https://en.wikipedia.org/wiki/VAX) server and explored the worlds of WWW, FTP, and IRC. I learned about VGA register tweaking and [MOD files](https://en.wikipedia.org/wiki/MOD_(file_format)) from the [Demoscene](https://en.wikipedia.org/wiki/Demoscene). Later I became a wannabe cyperpunk hacker and got into [Phreaking](https://en.wikipedia.org/wiki/Phreaking) and [Wardialing](https://en.wikipedia.org/wiki/Wardialing) with my 9600 baud modem, attempted to write my own [BBS](https://en.wikipedia.org/wiki/Bulletin_board_system) software, and created a [Red Box](https://en.wikipedia.org/wiki/Red_box_(phreaking)) by recording SoundBlaster program into my Walkman cassette player. I used the web to learn how to form the Alaska's first Gay-Straight Alliance, and published my first HTML site in 1996: a local resource directory for LGBT teens across the state.
+
+Shortly after I majored in EECS and Music (Cello) at MIT, where I learned Scheme, Java, Emacs, Linux shell scripting, and analog and digital electronics. I failed the robotics team (terrible at mechanical engineering), won an award for an analog drum machine (808 and 909 circuits), and produced electronic music (psytrance and breakbeat) for fun. I specialized in Digital Signal Processing, and did a boring thesis on the atmospheric waveguide physics (ask me about the Schumann Resonances). The cherry on top of my education was a year at the Stanford [Center for Computer Research in Music and Acoustics](https://ccrma.stanford.edu) where I experimented with Human-Computer interfaces ([Grid Drum movie](https://www.youtube.com/watch?v=SxJYFXAJmGs)) and [published on Virtual Analog synthesis](https://secure.aes.org/forum/pubs/conventions/?elib=12340).
+
+Failing to find a job in the music industry, I got involved with web development, teaching myself PHP, JavaScript, and CSS (remember IE compatibility?! ☠️). I worked as an independent consultant for several years, until I discovered Ruby on Rails, and teamed up with [Rodney Carvalho](https://www.linkedin.com/in/rodneyjcarvalho/) to form Internaut Design. Thus began my 15+ year career as a Rubyist! Lately, I have been working on [Harmonic Explorer](http://harmonic-explorer.onrender.com) for fun, which uses SVG graphics and advanced astronomical calculations to provide tools for professional astrologers.
