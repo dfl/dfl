@@ -3,7 +3,7 @@ I'm a curious, creative, and empathetic human with a broad range of interests an
 
 I have professional expertise in Web Apps, Hardware/Software Engineering, [Digital Signal Processing](https://soundcloud.com/lowenlabs/theta-bowls), Music, and [Somatic Healing Arts](http://fullspectrumbodywork.com). Some of my personal interests include Breathwork, Qigong, [Applied Neurobiology](http://pranawave.net), [Biochemistry](https://hypochlorous.info), and [Astrology](http://harmonic-explorer.onrender.com). I'm also late-diagnosed AuDHD, which explains my broad special interests (polymathy), hyperfocus ability, and out-of-the-box creative problem solving! 
 
-⚡ Fun fact: I was born in Alaska, and lived most of my life in the San Francisco Bay Area (a weird and wonderful melting pot of Tech, Queerness, Relational and Embodiment Practices, and Spirituality). I recently immigrated with my husband to the UK to escape the CA wildfires and have a new adventure (ask me about [Irn Bru](https://www.youtube.com/watch?v=vcQgrYS61Rw), Haribo, crumpets, and wild foraging 😉🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿)
+⚡ Fun fact: I was born in Alaska, and lived most of my life in the San Francisco Bay Area (a weird and wonderful melting pot of tech, queerness, relational and embodiment practices, and spirituality). I recently immigrated with my husband to the UK to escape the CA wildfires and have a new adventure (ask me about [Irn Bru](https://www.youtube.com/watch?v=vcQgrYS61Rw), Haribo, crumpets, and wild foraging 😉🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿)
 
 ## Selected Projects
 
