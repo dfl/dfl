@@ -18,7 +18,7 @@ I have professional expertise in Web Apps, Hardware/Software Engineering, [Digit
 
 ## Technical Biography
 
-I've been programming computers since I was 5 years old, when I explored recursive procedures and computer graphics with Logo on my Apple 2e.
+I've been programming computers since I was 5 years old, when I explored recursive procedures and [turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphics) with Logo on my Apple 2e.
 Thanks to my grade school librarian, I learned to type and program BASIC, later expanding to C, C++, and x86 Assembler.
 Between art classes and cross-country running, I spent after-school time at my Dad's office where I learned AutoCAD, digitized maps for a GIS, and wrote a [TSR](https://en.wikipedia.org/wiki/Terminate-and-stay-resident_program) screensaver for MS-DOS.
 
