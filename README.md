@@ -7,12 +7,13 @@ I have professional expertise in Web Apps, Hardware/Software Engineering, [Digit
 
 ## Selected Projects
 
-- [Harmonic Explorer](https://harmonicexplorer.com) - This experimental multi-tool has received interest from professional astrologers and Human Design analysts. The Heliograph, HD Bodygraph, and HD Transit Calendar are particularly unique, as is the support for various sidereal offsets beyond the typical Tropical alignment. It's a closed-source Rails 8 app, built on top of my [swe4r gem](https://github.com/dfl/swe4r) which provides Ruby bindings for the Swiss Ephemeris library written in C.
+- [Harmonic Explorer](https://harmonicexplorer.com) - This experimental multi-tool has received interest from professional astrologers and Human Design analysts. It's a Rails 8 app on Hetzner, built on top of my [swe4r gem](https://github.com/dfl/swe4r) which provides Ruby bindings for the Swiss Ephemeris library written in C. The [Heliograph](https://harmonicexplorer.com/heliograph) and [Human Design Transits](https://harmonicexplorer.com/calendars/human_design) showcase particularly complex SVG designs. The [Armillary](https://harmonicexplorer.com/armillary) is a vibecoded 3D planetarium to demonstrate complex astronomical relationships, while the [90º Uranian Dial](https://harmonicexplorer.com/uranian) has some unique JavaScript with Stimulus to highlight precise harmonic midpoint structures used by the Hamburg School.
     - [![Armillary planetarium](images/armillary-earth.png)](https://harmonicexplorer.com/armillary)
     - [![Uranian 90º Dial](images/uranian.png)](https://harmonicexplorer.com/armillary).
 
-- [![DB-303 synth logo](images/db303.png)](https://github.com/db303) - This is a TB-303 clone, based on open source implementations with my own twists -- including LFO modulation a la SH-101, as well as a TPT Diode Ladder filter. 
+- [![DB-303 synth logo](images/db303.png)](https://github.com/db303)
 
+  [DB-303](https://github.com/db303) is a software synthesizer TB-303 clone, based on open source implementations with my own twists -- including LFO modulation *a la* SH-101, as well as a custom TPT Diode Ladder filter. Demo sounds/video coming soon...
 
 - [Internaut Design](https://web.archive.org/web/20140604170316/http://internautdesign.com/ruby_on_rails_consulting) - co-founded a Ruby on Rails consultancy that build MVPs for startups in Silicon Valley. We mentored junior developers and frequently hosted the SF Ruby Meetup. Our in-house project managment tool was so successfull that we spun it out into a SaaS product. 💎
 - [ScrumNinja](https://web.archive.org/web/20130605162410/http://www.scrumninja.com/scrum-software) - a project management tool build for Scrum. Inspired by Pivotal Tracker, in addition to high-level user stories and sprint planning, it incorporated a drag-and-drop cardwall for developer task management and time tracking. 🥷
