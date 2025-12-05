@@ -15,10 +15,7 @@ I have professional expertise in Web Apps, Hardware/Software Engineering, [Digit
 
   [DB-303](https://github.com/dfl/db303) is a software synthesizer TB-303 clone, based on open source implementations with my own twists -- including LFO modulation *a la* SH-101, as well as a custom TPT Diode Ladder filter. It's still a work-in-progress, but here is a preview demo:
 
-  <video width="320" height="180" controls playsinline>
-    <source src="images/db303.mp4" type="video/mp4">
-    Your browser does not support MOV playback. Consider converting to MP4.
-  </video>
+https://github.com/user-attachments/assets/6aeff86d-51d4-485a-99c2-b2f636d8aefc
 
 - [Internaut Design](https://web.archive.org/web/20140604170316/http://internautdesign.com/ruby_on_rails_consulting) - co-founded a Ruby on Rails consultancy that build MVPs for startups in Silicon Valley. We mentored junior developers and frequently hosted the SF Ruby Meetup. Our in-house project managment tool was so successfull that we spun it out into a SaaS product. 💎
 - [ScrumNinja](https://web.archive.org/web/20130605162410/http://www.scrumninja.com/scrum-software) - a project management tool build for Scrum. Inspired by Pivotal Tracker, in addition to high-level user stories and sprint planning, it incorporated a drag-and-drop cardwall for developer task management and time tracking. 🥷
