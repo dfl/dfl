@@ -13,7 +13,7 @@ I have professional expertise in Web Apps, Hardware/Software Engineering, [Digit
 
 - [![DB-303 synth logo](images/db303.png)](https://github.com/dfl/db303)
 
-  [DB-303](https://github.com/dfl/db303) is a software synthesizer TB-303 clone, based on open source implementations with my own twists -- including LFO modulation *a la* SH-101, as well as a custom TPT Diode Ladder filter. It's still a work-in-progress, but here is a preview demo:
+  [DB-303](https://github.com/dfl/db303) is a software synthesizer TB-303 clone, based on open source implementations with my own twists -- including LFO modulation *a la* SH-101, as well as a custom TPT Diode Ladder filter. It's still a work-in-progress, but here is a preview demo (muted by default, just click unmute to hear)
 
 https://github.com/user-attachments/assets/6aeff86d-51d4-485a-99c2-b2f636d8aefc
 
