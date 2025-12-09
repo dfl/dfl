@@ -11,9 +11,9 @@ I have professional expertise in Web Apps, Hardware/Software Engineering, [Digit
     - [![Armillary planetarium](images/armillary-earth.png)](https://harmonicexplorer.com/armillary)
     - [![Uranian 90º Dial](images/uranian.png)](https://harmonicexplorer.com/armillary).
 
-- [![DB-303 synth logo](images/db303.png)]([https://github.com/dfl/db303](https://dfl.github.io/db303/web/))
+- [![DB-303 synth logo](images/db303.png)](https://dfl.github.io/db303/web/)
 
-  [DB-303]([https://github.com/dfl/db303](https://dfl.github.io/db303/web/) is a software synthesizer TB-303 clone, based on open source implementations with my own twists -- including LFO modulation *a la* SH-101, as well as an analog-modelled TPT Diode Ladder filter.
+  [DB-303](https://dfl.github.io/db303/web/) is a software synthesizer TB-303 clone, based on open source implementations with my own twists -- including LFO modulation *a la* SH-101, as well as an analog-modelled TPT Diode Ladder filter.
 
 - [Internaut Design](https://web.archive.org/web/20140604170316/http://internautdesign.com/ruby_on_rails_consulting) - co-founded a Ruby on Rails consultancy that build MVPs for startups in Silicon Valley. We mentored junior developers and frequently hosted the SF Ruby Meetup. Our in-house project managment tool was so successfull that we spun it out into a SaaS product. 💎
 - [ScrumNinja](https://web.archive.org/web/20130605162410/http://www.scrumninja.com/scrum-software) - a project management tool build for Scrum. Inspired by Pivotal Tracker, in addition to high-level user stories and sprint planning, it incorporated a drag-and-drop cardwall for developer task management and time tracking. 🥷
