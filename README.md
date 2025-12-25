@@ -11,6 +11,10 @@ I have professional expertise in Web Apps, Hardware/Software Engineering, [Digit
     - [![Armillary planetarium](images/armillary-earth.png)](https://harmonicexplorer.com/armillary)
     - [![Uranian 90º Dial](images/uranian.png)](https://harmonicexplorer.com/armillary).
 
+- [![BAWD screenshot](images/bawd.png)](https://bawd.pages.dev)
+
+  [BAWD](https://bawd.pages.dev) - BinAural Web Device is a browser-based binaural beat generator for brainwave entrainment. Built with the Web Audio API and AudioWorklets, it features real-time synthesis with adjustable carrier frequency, beat frequency (Delta/Theta/Alpha/Beta states), waveform morphing, colored noise, and amplitude modulation. Headphones required!
+
 - [![DB-303 synth logo](images/db303.png)](https://dfl.github.io/db303/web/)
 
   [DB-303](https://dfl.github.io/db303/web/) is a software synthesizer TB-303 clone, based on open source implementations with my own twists -- including LFO modulation *a la* SH-101, as well as an analog-modelled TPT Diode Ladder filter.
