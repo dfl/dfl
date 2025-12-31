@@ -15,9 +15,17 @@ I have professional expertise in Web Apps, Hardware/Software Engineering, [Digit
 
   [BAWD](https://bawd.pages.dev) - BinAural Web Device is a browser-based binaural beat generator for brainwave entrainment. Built with the Web Audio API and AudioWorklets, it features real-time synthesis with adjustable carrier frequency, beat frequency (Delta/Theta/Alpha/Beta states), waveform morphing, colored noise, and amplitude modulation. Headphones required!
 
-- [![DB-303 synth logo](images/db303.png)](https://dfl.github.io/db303/web/)
+- [![DB-303 synth logo](images/db303.png)](https://db303.pages.dev)
 
-  [DB-303](https://dfl.github.io/db303/web/) is a software synthesizer TB-303 clone, based on open source implementations with my own twists -- including LFO modulation *a la* SH-101, as well as an analog-modelled TPT Diode Ladder filter.
+  [DB-303](https://db303.pages.dev) is a software synthesizer TB-303 clone, based on open source implementations with my own twists -- including LFO modulation *a la* SH-101, circuit-modelled diode ladder with screaming nonlinearities, DevilFish mods, and a step-sequencer with palm-mute & hammer-ons.
+
+- [![KlangwerX drum synth](images/klangwerx.png)](https://klangwerx.pages.dev)
+
+  [KlangwerX](https://klangwerx.pages.dev) is a drum synthesizer inspired by 90s legends like Stomper and JOMOX. Features analog-style drum synthesis, one-shot WAV export, and 90s techno/house sound design.
+
+- [![Funky Monk formant synth](images/funkymonk.png)](https://funkymonk.pages.dev)
+
+  [Funky Monk](https://funkymonk.pages.dev) is a polyphonic formant synthesizer with XY vowel control. Features classic formant synthesis with extra controls, trance gate, and mono/poly up to 8 voices.
 
 - [Internaut Design](https://web.archive.org/web/20140604170316/http://internautdesign.com/ruby_on_rails_consulting) - co-founded a Ruby on Rails consultancy that build MVPs for startups in Silicon Valley. We mentored junior developers and frequently hosted the SF Ruby Meetup. Our in-house project managment tool was so successfull that we spun it out into a SaaS product. 💎
 - [ScrumNinja](https://web.archive.org/web/20130605162410/http://www.scrumninja.com/scrum-software) - a project management tool build for Scrum. Inspired by Pivotal Tracker, in addition to high-level user stories and sprint planning, it incorporated a drag-and-drop cardwall for developer task management and time tracking. 🥷
