@@ -1,3 +1,6 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfl&langs_count=6&hide=cuda,html,css,javascript,cmake,scala,c,shell)
+![dfl's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfl&show_icons=true)
+
 ## About Me  ✨🧠🏳️‍🌈🦄
 I'm a curious, creative, and empathetic human with a broad range of interests and experiences. A backend-leaning full-stack polyglot developer, I have worked as a Ruby on Rails consultant for dozens of startups, including LinkedIn, Pioneer Electronics, and Monster.com. I thrive in collaborative environments where integrity, transparency and honesty are strong values. I am also a fan of pair programming and unit tests. You can [view my resume/CV here](DAVID%20LOWENFELS%20CV%20A4.pdf).
 
