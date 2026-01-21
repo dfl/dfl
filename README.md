@@ -1,7 +1,10 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfl&langs_count=6&hide=cuda,html,css,javascript,cmake,scala,c,shell)
-![dfl's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfl&show_icons=true)
-
 ## About Me  ✨🧠🏳️‍🌈🦄
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dfl&show_icons=true" alt="dfl's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfl&langs_count=6&hide=cuda,html,css,javascript,cmake,scala,c,shell&layout=compact" alt="Top Langs" />
+</p>
+
 I'm a curious, creative, and empathetic human with a broad range of interests and experiences. A backend-leaning full-stack polyglot developer, I have worked as a Ruby on Rails consultant for dozens of startups, including LinkedIn, Pioneer Electronics, and Monster.com. I thrive in collaborative environments where integrity, transparency and honesty are strong values. I am also a fan of pair programming and unit tests. You can [view my resume/CV here](DAVID%20LOWENFELS%20CV%20A4.pdf).
 
 I have professional expertise in Web Apps, Hardware/Software Engineering, [Digital Signal Processing](https://soundcloud.com/lowenlabs/theta-bowls), Music, and [Somatic Healing Arts](http://fullspectrumbodywork.com). Some of my personal interests include Breathwork, Qigong, [Applied Neurobiology](http://pranawave.net), [Biochemistry](https://hypochlorous.info), and [Astrology](http://harmonicexplorer.com). I'm also late-diagnosed AuDHD, which explains my broad special interests (polymathy), hyperfocus ability, and out-of-the-box creative problem solving! 
