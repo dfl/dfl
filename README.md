@@ -24,10 +24,10 @@ I have professional expertise in Web Apps, Hardware/Software Engineering, [Digit
 
 ## Astrology Software
 
-- [![Armillary planetarium](images/armillary-earth.png)](https://harmonicexplorer.com/armillary)
-  [![Uranian 90º Dial](images/uranian.png)](https://harmonicexplorer.com/uranian)
+- [Harmonic Explorer](https://harmonicexplorer.com) - This experimental multi-tool has received interest from professional astrologers and Human Design analysts. It's a Rails 8 app on Hetzner. The [Heliograph](https://harmonicexplorer.com/heliograph) and [Human Design Transits](https://harmonicexplorer.com/calendars/human_design) showcase particularly complex SVG designs. The [Armillary](https://harmonicexplorer.com/armillary) is a vibecoded 3D planetarium to demonstrate complex astronomical relationships, while the [90º Uranian Dial](https://harmonicexplorer.com/uranian) has some unique JavaScript with Stimulus to highlight precise harmonic midpoint structures used by the Hamburg School.
 
-  [Harmonic Explorer](https://harmonicexplorer.com) - This experimental multi-tool has received interest from professional astrologers and Human Design analysts. It's a Rails 8 app on Hetzner. The [Heliograph](https://harmonicexplorer.com/heliograph) and [Human Design Transits](https://harmonicexplorer.com/calendars/human_design) showcase particularly complex SVG designs. The [Armillary](https://harmonicexplorer.com/armillary) is a vibecoded 3D planetarium to demonstrate complex astronomical relationships, while the [90º Uranian Dial](https://harmonicexplorer.com/uranian) has some unique JavaScript with Stimulus to highlight precise harmonic midpoint structures used by the Hamburg School.
+  <a href="https://harmonicexplorer.com/armillary"><img src="images/armillary-earth.png" width="300" alt="Armillary planetarium"></a>
+  <a href="https://harmonicexplorer.com/uranian"><img src="images/uranian.png" width="300" alt="Uranian 90º Dial"></a>
 
 - [swe4r](https://github.com/dfl/swe4r) - Ruby bindings for the Swiss Ephemeris library (written in C), providing precise astronomical calculations for astrological software.
 
@@ -37,10 +37,10 @@ I have professional expertise in Web Apps, Hardware/Software Engineering, [Digit
 
 - [Löwen Labs Audio](https://dfl.github.io/lowenlabs-audio/) - A collection of browser-based audio synthesis tools built with Web Audio API and AudioWorklets: **DB-303** (circuit-modelled TB-303 clone with DevilFish mods), **KlangwerX** (90s-inspired drum synth), **Funky Monk** (polyphonic formant synth), **BAWD** (binaural beat generator), and **Faveworm** (oscilloscope music visualizer).
 
-  <a href="https://db303.pages.dev"><img src="https://dfl.github.io/lowenlabs-audio/img/db303-cover.png" width="150" alt="DB-303 synth"></a>
-  <a href="https://klangwerx.pages.dev"><img src="https://dfl.github.io/lowenlabs-audio/img/klangwerx-cover.png" width="150" alt="KlangwerX synth"></a>
-  <a href="https://funkymonk.pages.dev"><img src="https://dfl.github.io/lowenlabs-audio/img/funkymonk-cover.png" width="150" alt="Funky Monk synth"></a>
-  <a href="https://bawd.pages.dev"><img src="https://dfl.github.io/lowenlabs-audio/img/bawd-cover.png" width="150" alt="BAWD"></a>
+  <a href="https://db303.pages.dev"><img src="https://dfl.github.io/lowenlabs-audio/img/db303-cover.png" width="200" alt="DB-303 synth"></a>
+  <a href="https://klangwerx.pages.dev"><img src="https://dfl.github.io/lowenlabs-audio/img/klangwerx-cover.png" width="200" alt="KlangwerX synth"></a>
+  <a href="https://funkymonk.pages.dev"><img src="https://dfl.github.io/lowenlabs-audio/img/funkymonk-cover.png" width="200" alt="Funky Monk synth"></a>
+  <a href="https://bawd.pages.dev"><img src="https://dfl.github.io/lowenlabs-audio/img/bawd-cover.png" width="200" alt="BAWD"></a>
 
 - [clap-trap](https://github.com/dfl/clap-trap) - A command-line testing tool for CLAP audio plugins. Validates, benchmarks, and renders audio through plugins without requiring a DAW. Supports native `.clap` and WebAssembly plugins via wclap-bridge integration. Useful for CI/CD pipelines to catch plugin bugs before release.
 
