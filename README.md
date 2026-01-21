@@ -8,6 +8,17 @@ I have professional expertise in Web Apps, Hardware/Software Engineering, [Digit
 
 ⚡ Fun fact: I was born in Alaska, and lived most of my life in the San Francisco Bay Area (a weird and wonderful melting pot of tech, queerness, relational and embodiment practices, and spirituality). I recently immigrated with my husband to the UK to escape the CA wildfires and have a new adventure (ask me about [Irn Bru](https://www.youtube.com/watch?v=vcQgrYS61Rw), Haribo, crumpets, and wild foraging 😉🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿)
 
+## Open Source Contributions
+
+- [Rails Core](https://contributors.rubyonrails.org/contributors/david-lowenfels/commits) - Contributor to Ruby on Rails framework
+- [active_scaffold](https://github.com/activescaffold/active_scaffold) - Made compatible with view_component
+- [nih-faust-jit](https://github.com/YPares/nih-faust-jit) - Contributor to JIT-compiled Faust DSP for nih-plug
+- [nih-plug](https://github.com/robbert-vdh/nih-plug) - Contributor to the Rust audio plugin framework
+- [faustlibraries](https://github.com/grame-cncm/faustlibraries) - Contributor to the official Faust DSP libraries
+- [wclap-bridge](https://github.com/niclasberg/wclap-bridge) - Contributor to WebAssembly CLAP plugin bridge
+- [visage](https://github.com/VitalAudio/visage) - Contributor to the audio plugin GUI framework
+- [t-ruby](https://github.com/niclasberg/t-ruby) - Contributor to Ruby template engine
+
 ## Astrology Software
 
 - [![Armillary planetarium](images/armillary-earth.png)](https://harmonicexplorer.com/armillary)
@@ -39,17 +50,6 @@ I have professional expertise in Web Apps, Hardware/Software Engineering, [Digit
 - [Pranawave](http://pranawave.net) - This was a startup that brought together my interests in health, signal processing, bioacoustics, breathing, and Heart Rate Variability. I built versions in Java, Ruby, and Swift. I made it to the finalist pitch round in Y-Combinator, and developed an [iPhone app that measured the pulse via fingertip on camera algorithm](https://www.youtube.com/watch?v=qhjVVUs5u6Q). [2017 YouTube Talk at Consciousness Hacking](https://www.youtube.com/watch?v=lvb7IdhT48c), [2024 Heart Rate Variability Podcast](https://www.youtube.com/watch?v=ZV5i2Fo5DwY). 🫁⚕🫀
 - [MindSpa](https://lowenlabs.org/projects/audiovisual/) - I designed and prototyped this brainwave entrainment device during the Pandemic, for some friends who wanted to manufacture and distribute it in China. I used an Arduino platform to build a custom audiovisual synthesis engine, with a complex event sequencer to play back user programs stored on EEPROM. 🧠🚥
 - [The Vibrokit](https://fullspectrumbodywork.com/vibrokit) - A hardware retrofit to add vibrotactile bass to massage tables. 🔊
-
-## Open Source Contributions
-
-- [Rails Core](https://contributors.rubyonrails.org/contributors/david-lowenfels/commits) - Contributor to Ruby on Rails framework
-- [active_scaffold](https://github.com/activescaffold/active_scaffold) - Made compatible with view_component
-- [nih-faust-jit](https://github.com/YPares/nih-faust-jit) - Contributor to JIT-compiled Faust DSP for nih-plug
-- [nih-plug](https://github.com/robbert-vdh/nih-plug) - Contributor to the Rust audio plugin framework
-- [faustlibraries](https://github.com/grame-cncm/faustlibraries) - Contributor to the official Faust DSP libraries
-- [wclap-bridge](https://github.com/niclasberg/wclap-bridge) - Contributor to WebAssembly CLAP plugin bridge
-- [visage](https://github.com/VitalAudio/visage) - Contributor to the audio plugin GUI framework
-- [t-ruby](https://github.com/niclasberg/t-ruby) - Contributor to Ruby template engine
 
 ## Technical Biography
 
