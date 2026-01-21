@@ -35,12 +35,12 @@ I have professional expertise in Web Apps, Hardware/Software Engineering, [Digit
 
 ## Audio / DSP
 
-- [![DB-303 synth](https://dfl.github.io/lowenlabs-audio/img/db303-cover.png)](https://db303.pages.dev)
-  [![KlangwerX synth](https://dfl.github.io/lowenlabs-audio/img/klangwerx-cover.png)](https://klangwerx.pages.dev)
-  [![Funky Monk synth](https://dfl.github.io/lowenlabs-audio/img/funkymonk-cover.png)](https://funkymonk.pages.dev)
-  [![BAWD](https://dfl.github.io/lowenlabs-audio/img/bawd-cover.png)](https://bawd.pages.dev)
+- [Löwen Labs Audio](https://dfl.github.io/lowenlabs-audio/) - A collection of browser-based audio synthesis tools built with Web Audio API and AudioWorklets: **DB-303** (circuit-modelled TB-303 clone with DevilFish mods), **KlangwerX** (90s-inspired drum synth), **Funky Monk** (polyphonic formant synth), **BAWD** (binaural beat generator), and **Faveworm** (oscilloscope music visualizer).
 
-  [Löwen Labs Audio](https://dfl.github.io/lowenlabs-audio/) - A collection of browser-based audio synthesis tools built with Web Audio API and AudioWorklets: **DB-303** (circuit-modelled TB-303 clone with DevilFish mods), **KlangwerX** (90s-inspired drum synth), **Funky Monk** (polyphonic formant synth), **BAWD** (binaural beat generator), and **Faveworm** (oscilloscope music visualizer).
+  <a href="https://db303.pages.dev"><img src="https://dfl.github.io/lowenlabs-audio/img/db303-cover.png" width="150" alt="DB-303 synth"></a>
+  <a href="https://klangwerx.pages.dev"><img src="https://dfl.github.io/lowenlabs-audio/img/klangwerx-cover.png" width="150" alt="KlangwerX synth"></a>
+  <a href="https://funkymonk.pages.dev"><img src="https://dfl.github.io/lowenlabs-audio/img/funkymonk-cover.png" width="150" alt="Funky Monk synth"></a>
+  <a href="https://bawd.pages.dev"><img src="https://dfl.github.io/lowenlabs-audio/img/bawd-cover.png" width="150" alt="BAWD"></a>
 
 - [clap-trap](https://github.com/dfl/clap-trap) - A command-line testing tool for CLAP audio plugins. Validates, benchmarks, and renders audio through plugins without requiring a DAW. Supports native `.clap` and WebAssembly plugins via wclap-bridge integration. Useful for CI/CD pipelines to catch plugin bugs before release.
 
