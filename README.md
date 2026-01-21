@@ -8,35 +8,48 @@ I have professional expertise in Web Apps, Hardware/Software Engineering, [Digit
 
 ⚡ Fun fact: I was born in Alaska, and lived most of my life in the San Francisco Bay Area (a weird and wonderful melting pot of tech, queerness, relational and embodiment practices, and spirituality). I recently immigrated with my husband to the UK to escape the CA wildfires and have a new adventure (ask me about [Irn Bru](https://www.youtube.com/watch?v=vcQgrYS61Rw), Haribo, crumpets, and wild foraging 😉🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿)
 
+## Astrology Software
+
+- [![Armillary planetarium](images/armillary-earth.png)](https://harmonicexplorer.com/armillary)
+  [![Uranian 90º Dial](images/uranian.png)](https://harmonicexplorer.com/uranian)
+
+  [Harmonic Explorer](https://harmonicexplorer.com) - This experimental multi-tool has received interest from professional astrologers and Human Design analysts. It's a Rails 8 app on Hetzner. The [Heliograph](https://harmonicexplorer.com/heliograph) and [Human Design Transits](https://harmonicexplorer.com/calendars/human_design) showcase particularly complex SVG designs. The [Armillary](https://harmonicexplorer.com/armillary) is a vibecoded 3D planetarium to demonstrate complex astronomical relationships, while the [90º Uranian Dial](https://harmonicexplorer.com/uranian) has some unique JavaScript with Stimulus to highlight precise harmonic midpoint structures used by the Hamburg School.
+
+- [swe4r](https://github.com/dfl/swe4r) - Ruby bindings for the Swiss Ephemeris library (written in C), providing precise astronomical calculations for astrological software.
+
+- [Astrolog](https://github.com/dfl/astrolog) - MacOS port of Walter Pullen's classic astrology software.
+
+## Audio / DSP
+
+- [![DB-303 synth](https://dfl.github.io/lowenlabs-audio/img/db303-cover.png)](https://dfl.github.io/lowenlabs-audio/)
+  [![KlangwerX synth](https://dfl.github.io/lowenlabs-audio/img/klangwerx-cover.png)](https://dfl.github.io/lowenlabs-audio/)
+  [![Funky Monk synth](https://dfl.github.io/lowenlabs-audio/img/funkymonk-cover.png)](https://dfl.github.io/lowenlabs-audio/)
+  [![BAWD](https://dfl.github.io/lowenlabs-audio/img/bawd-cover.png)](https://dfl.github.io/lowenlabs-audio/)
+
+  [Löwen Labs Audio](https://dfl.github.io/lowenlabs-audio/) - A collection of browser-based audio synthesis tools built with Web Audio API and AudioWorklets: **DB-303** (circuit-modelled TB-303 clone with DevilFish mods), **KlangwerX** (90s-inspired drum synth), **Funky Monk** (polyphonic formant synth), **BAWD** (binaural beat generator), and **Faveworm** (oscilloscope music visualizer).
+
+- [clap-trap](https://github.com/dfl/clap-trap) - A command-line testing tool for CLAP audio plugins. Validates, benchmarks, and renders audio through plugins without requiring a DAW. Supports native `.clap` and WebAssembly plugins via wclap-bridge integration. Useful for CI/CD pipelines to catch plugin bugs before release.
+
+- [frausto](https://github.com/dfl/frausto) - A Ruby toolkit for Faust DSP with bidirectional conversion. Write DSP code in Ruby DSL (`osc(440) >> lp(800) >> gain(0.3)`) and generate Faust, or parse existing Faust into Ruby syntax.
+
 ## Selected Projects
-
-- [Harmonic Explorer](https://harmonicexplorer.com) - This experimental multi-tool has received interest from professional astrologers and Human Design analysts. It's a Rails 8 app on Hetzner, built on top of my [swe4r gem](https://github.com/dfl/swe4r) which provides Ruby bindings for the Swiss Ephemeris library written in C. The [Heliograph](https://harmonicexplorer.com/heliograph) and [Human Design Transits](https://harmonicexplorer.com/calendars/human_design) showcase particularly complex SVG designs. The [Armillary](https://harmonicexplorer.com/armillary) is a vibecoded 3D planetarium to demonstrate complex astronomical relationships, while the [90º Uranian Dial](https://harmonicexplorer.com/uranian) has some unique JavaScript with Stimulus to highlight precise harmonic midpoint structures used by the Hamburg School.
-    - [![Armillary planetarium](images/armillary-earth.png)](https://harmonicexplorer.com/armillary)
-    - [![Uranian 90º Dial](images/uranian.png)](https://harmonicexplorer.com/armillary).
-
-- [![BAWD screenshot](images/bawd.png)](https://bawd.pages.dev)
-
-  [BAWD](https://bawd.pages.dev) - BinAural Web Device is a browser-based binaural beat generator for brainwave entrainment. Built with the Web Audio API and AudioWorklets, it features real-time synthesis with adjustable carrier frequency, beat frequency (Delta/Theta/Alpha/Beta states), waveform morphing, colored noise, and amplitude modulation. Headphones required!
-
-- [![DB-303 synth logo](images/db303.png)](https://db303.pages.dev)
-
-  [DB-303](https://db303.pages.dev) is a software synthesizer TB-303 clone, based on open source implementations with my own twists -- including LFO modulation *a la* SH-101, circuit-modelled diode ladder with screaming nonlinearities, DevilFish mods, and a step-sequencer with palm-mute & hammer-ons.
-
-- [![KlangwerX drum synth](images/klangwerx.png)](https://klangwerx.pages.dev)
-
-  [KlangwerX](https://klangwerx.pages.dev) is a drum synthesizer inspired by 90s legends like Stomper and JOMOX. Features analog-style drum synthesis, one-shot WAV export, and 90s techno/house sound design.
-
-- [![Funky Monk formant synth](images/funkymonk.png)](https://funkymonk.pages.dev)
-
-  [Funky Monk](https://funkymonk.pages.dev) is a polyphonic formant synthesizer with XY vowel control. Features classic formant synthesis with extra controls, trance gate, and mono/poly up to 8 voices.
 
 - [Internaut Design](https://web.archive.org/web/20140604170316/http://internautdesign.com/ruby_on_rails_consulting) - co-founded a Ruby on Rails consultancy that build MVPs for startups in Silicon Valley. We mentored junior developers and frequently hosted the SF Ruby Meetup. Our in-house project managment tool was so successfull that we spun it out into a SaaS product. 💎
 - [ScrumNinja](https://web.archive.org/web/20130605162410/http://www.scrumninja.com/scrum-software) - a project management tool build for Scrum. Inspired by Pivotal Tracker, in addition to high-level user stories and sprint planning, it incorporated a drag-and-drop cardwall for developer task management and time tracking. 🥷
 - [Pranawave](http://pranawave.net) - This was a startup that brought together my interests in health, signal processing, bioacoustics, breathing, and Heart Rate Variability. I built versions in Java, Ruby, and Swift. I made it to the finalist pitch round in Y-Combinator, and developed an [iPhone app that measured the pulse via fingertip on camera algorithm](https://www.youtube.com/watch?v=qhjVVUs5u6Q). [2017 YouTube Talk at Consciousness Hacking](https://www.youtube.com/watch?v=lvb7IdhT48c), [2024 Heart Rate Variability Podcast](https://www.youtube.com/watch?v=ZV5i2Fo5DwY). 🫁⚕🫀
 - [MindSpa](https://lowenlabs.org/projects/audiovisual/) - I designed and prototyped this brainwave entrainment device during the Pandemic, for some friends who wanted to manufacture and distribute it in China. I used an Arduino platform to build a custom audiovisual synthesis engine, with a complex event sequencer to play back user programs stored on EEPROM. 🧠🚥
-- [TimeWARP 2600](https://www.airmusictech.com/virtual-instruments/timewarp-2600/) - I was contracted to develop the oscillator and filter algorithms for this synthsizer, which was used professionaly by Depeche Mode.
-- [Theta Bowls](https://soundcloud.com/lowenlabs/theta-bowls) - A physical modelling synthesizer for Puredata that recreates the sound of Tibetan bowls, and can be controlled to match brainwave entrainment rhythms.
 - [The Vibrokit](https://fullspectrumbodywork.com/vibrokit) - A hardware retrofit to add vibrotactile bass to massage tables. 🔊
+
+## Open Source Contributions
+
+- [Rails Core](https://contributors.rubyonrails.org/contributors/david-lowenfels/commits) - Contributor to Ruby on Rails framework
+- [active_scaffold](https://github.com/activescaffold/active_scaffold) - Made compatible with view_component
+- [nih-faust-jit](https://github.com/YPares/nih-faust-jit) - Contributor to JIT-compiled Faust DSP for nih-plug
+- [nih-plug](https://github.com/robbert-vdh/nih-plug) - Contributor to the Rust audio plugin framework
+- [faustlibraries](https://github.com/grame-cncm/faustlibraries) - Contributor to the official Faust DSP libraries
+- [wclap-bridge](https://github.com/niclasberg/wclap-bridge) - Contributor to WebAssembly CLAP plugin bridge
+- [visage](https://github.com/VitalAudio/visage) - Contributor to the audio plugin GUI framework
+- [t-ruby](https://github.com/niclasberg/t-ruby) - Contributor to Ruby template engine
 
 ## Technical Biography
 
