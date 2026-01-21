@@ -31,7 +31,7 @@ I have professional expertise in Web Apps, Hardware/Software Engineering, [Digit
 
 - [swe4r](https://github.com/dfl/swe4r) - Ruby bindings for the Swiss Ephemeris library (written in C), providing precise astronomical calculations for astrological software.
 
-- [Astrolog](https://github.com/dfl/astrolog) - MacOS port of Walter Pullen's classic astrology software.
+- [Astrolog](https://github.com/dfl/Astrolog/tree/gui) - MacOS port of Walter Pullen's classic astrology software. Refactored to use Cairo for vector graphics, making everything SVG native.
 
 ## Audio / DSP
 
