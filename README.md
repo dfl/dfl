@@ -35,10 +35,10 @@ I have professional expertise in Web Apps, Hardware/Software Engineering, [Digit
 
 ## Audio / DSP
 
-- [![DB-303 synth](https://dfl.github.io/lowenlabs-audio/img/db303-cover.png)](https://dfl.github.io/lowenlabs-audio/)
-  [![KlangwerX synth](https://dfl.github.io/lowenlabs-audio/img/klangwerx-cover.png)](https://dfl.github.io/lowenlabs-audio/)
-  [![Funky Monk synth](https://dfl.github.io/lowenlabs-audio/img/funkymonk-cover.png)](https://dfl.github.io/lowenlabs-audio/)
-  [![BAWD](https://dfl.github.io/lowenlabs-audio/img/bawd-cover.png)](https://dfl.github.io/lowenlabs-audio/)
+- [![DB-303 synth](https://dfl.github.io/lowenlabs-audio/img/db303-cover.png)](https://db303.pages.dev)
+  [![KlangwerX synth](https://dfl.github.io/lowenlabs-audio/img/klangwerx-cover.png)](https://klangwerx.pages.dev)
+  [![Funky Monk synth](https://dfl.github.io/lowenlabs-audio/img/funkymonk-cover.png)](https://funkymonk.pages.dev)
+  [![BAWD](https://dfl.github.io/lowenlabs-audio/img/bawd-cover.png)](https://bawd.pages.dev)
 
   [Löwen Labs Audio](https://dfl.github.io/lowenlabs-audio/) - A collection of browser-based audio synthesis tools built with Web Audio API and AudioWorklets: **DB-303** (circuit-modelled TB-303 clone with DevilFish mods), **KlangwerX** (90s-inspired drum synth), **Funky Monk** (polyphonic formant synth), **BAWD** (binaural beat generator), and **Faveworm** (oscilloscope music visualizer).
 
