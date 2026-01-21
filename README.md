@@ -21,6 +21,7 @@ I have professional expertise in Web Apps, Hardware/Software Engineering, [Digit
 - [wclap-bridge](https://github.com/niclasberg/wclap-bridge) - Contributor to WebAssembly CLAP plugin bridge
 - [visage](https://github.com/VitalAudio/visage) - Contributor to the audio plugin GUI framework
 - [t-ruby](https://github.com/niclasberg/t-ruby) - Contributor to Ruby template engine
+- [Gradio](https://github.com/gradio-app/gradio) - Contributor to the Python UI library for ML demos
 
 ## Astrology Software
 
