@@ -30,7 +30,7 @@ I have professional expertise in Web Apps, Hardware/Software Engineering, [Digit
   <a href="https://harmonicexplorer.com/armillary"><img src="images/armillary-earth.png" width="300" alt="Armillary planetarium"></a>
   <a href="https://harmonicexplorer.com/uranian"><img src="images/uranian.png" width="300" alt="Uranian 90º Dial"></a>
 
-- [swe4r](https://github.com/dfl/swe4r) - Ruby bindings for the Swiss Ephemeris library (written in C), providing precise astronomical calculations for astrological software.
+- [swisseph](https://github.com/dfl/swisseph) - Ruby bindings for the Swiss Ephemeris library (written in C), providing precise astronomical calculations for astrological software.
 
 - [Astrolog](https://github.com/dfl/Astrolog/tree/gui) - MacOS port of Walter Pullen's classic astrology software. Refactored to use Cairo for vector graphics, making everything SVG native.
 
@@ -44,8 +44,6 @@ I have professional expertise in Web Apps, Hardware/Software Engineering, [Digit
   <a href="https://bawd.pages.dev"><img src="https://dfl.github.io/lowenlabs-audio/img/bawd-cover.png" width="200" alt="BAWD"></a>
 
 - [clap-trap](https://github.com/dfl/clap-trap) - A command-line testing tool for CLAP audio plugins. Validates, benchmarks, and renders audio through plugins without requiring a DAW. Supports native `.clap` and WebAssembly plugins via wclap-bridge integration. Useful for CI/CD pipelines to catch plugin bugs before release.
-
-- [frausto](https://github.com/dfl/frausto) - A Ruby toolkit for Faust DSP with bidirectional conversion. Write DSP code in Ruby DSL (`osc(440) >> lp(800) >> gain(0.3)`) and generate Faust, or parse existing Faust into Ruby syntax.
 
 ## Selected Projects
 
